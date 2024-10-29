@@ -1,4 +1,4 @@
-# 🎯 HR Analytics Dashboard Using Power BI 📊
+# 🎯 HR Analytics Project Using Power BI 📊
 This project centers on an HR Analytics Dashboard built in Power BI to help HR professionals understand and mitigate employee attrition. The dashboard provides actionable insights into employee demographics, attrition rates, and the impact of factors like job satisfaction, department, and work-life balance on turnover.
 
 ![Alt Text](https://github.com/Analyzewithasim/-HR-Analytics-Dashboard-Using-Power-BI-/blob/main/HR%20Analytics.gif)
